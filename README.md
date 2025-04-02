@@ -1,5 +1,12 @@
 # my_poker_kata
 
+This is what I have leant from the class (OOP The Right Way)[https://classroom.skooldio.com/classroom/a13391bd-b8ad-4902-9235-2ed704d3af51].
+
+
+## Poker Kata
+
+.
+
 
 ## Setting Up a TypeScript Project with VS Code and Yarn
 
